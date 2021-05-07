@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PointCalculator</string>
+    <string name="title">Menolippu Pistelaskuri</string>
+    <string name="green">Vihreä</string>
+    <string name="yellow">Keltainen</string>
+    <string name="red">Punainen</string>
+    <string name="black">Musta</string>
+    <string name="blue">Sininen</string>
+    <string name="start">Aloita peli</string>
+    <string name="lastRound">Viimeinen kierros!</string>
+    <string name="reset">Aloita uudestaan</string>
+</resources>
